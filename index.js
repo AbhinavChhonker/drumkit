@@ -70,7 +70,8 @@ function playSound(key) {
 
 }
 
-//key animation/*
+//key animation
+/*
 function buttonAnimation (currentKey) {
 
   var activeButton = document.querySelector("." + currentKey);
